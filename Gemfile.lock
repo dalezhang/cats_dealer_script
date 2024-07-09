@@ -1,0 +1,21 @@
+GEM
+  specs:
+    bigdecimal (3.1.5)
+    crack (1.0.0)
+      bigdecimal
+      rexml
+    minitest (5.24.1)
+    rexml (3.3.1)
+      strscan
+    strscan (3.0.7)
+
+PLATFORMS
+  ruby
+  x86_64-darwin-21
+
+DEPENDENCIES
+  crack
+  minitest
+
+BUNDLED WITH
+   2.5.11
